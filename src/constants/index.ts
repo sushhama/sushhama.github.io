@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
-    NAME: "Sushhma Gupta",
-    URL: "https://www.sushhma.github.io"    
+    NAME: "Sushhama Gupta",
+    URL: "https://www.sushhama.github.io"    
   } as const;
 
   export const SOCIAL_LINKS = {
